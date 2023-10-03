@@ -1,1 +1,1 @@
-Some new text for this file afte creation and adding to the Git repository
+Some new text for this file after creation and adding to the Git repository
