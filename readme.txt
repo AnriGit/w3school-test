@@ -12,4 +12,4 @@ This change was made from new branch "readme-sceletom" made from branch "master"
 
 This change was made locally in a new branch "update-readme" (based on a copy of "readme-sceleton")
 
-x
+Some usefull changes to deploy
