@@ -5,3 +5,5 @@ Add one more image file name to this text img.jpg
 
 These are some changes made in GitHub  Editor (to test #fetch + #merge)
 This is second change made in GitHub  Editor to (to test #pull = #fetch + #merge)
+
+It is the chagings made locall to test #pull to the GitHub
